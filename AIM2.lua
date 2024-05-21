@@ -316,7 +316,7 @@ do --// Main
                 Callback = function(Value)
                     FeatureTable.Visuals.Chams.OutlineColor = Value
                 end
-            })Sections.Visuals:AddSlider('Fill Transparency', {
+            })Sections.Visuals:AddSlider('FillTransparency', {
                 Text = 'Fill Transparency',
                 Default = 0,
                 Min = 0,
