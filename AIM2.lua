@@ -194,7 +194,7 @@ do --// Main
                 end
             })
 
-            Sections.Aimbot:AddToggle('TeamCheck', {
+            Sections.Aimbot:AddToggle('TeamCheck1', {
                 Text = 'Team Check',
                 Default = false,
                 Tooltip = nil,
@@ -352,7 +352,7 @@ do --// Main
                 end
             })
 
-            Sections.VisualSettings:AddToggle('TeamCheck', {
+            Sections.VisualSettings:AddToggle('TeamCheck2', {
                 Text = 'Team Check',
                 Default = false,
                 Tooltip = nil,
